@@ -21,6 +21,7 @@ import java.net.URISyntaxException
 
 class MainActivity : AppCompatActivity() {
     var mCurrentActivity: Activity? = null
+    // gkgkgkgk
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
